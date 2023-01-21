@@ -1,0 +1,19 @@
+/* Fontes Personalizadas */
+@font-face {
+  font-family: 'SubVario Dry';
+  src: url(./font/SubVario-Dry.otf);
+}
+
+@font-face {
+  font-family: 'Baukasten One Regular';
+  src: url('./font/Baukasten One Regular.otf');
+}
+
+@font-face {
+  font-family: 'Super Mario';
+  src: url('./font/super-mario.ttf');
+}
+
+* {
+  font-family: 'Super Mario';
+}
